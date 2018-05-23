@@ -18,5 +18,5 @@ Requires
  `fire`
 
 ```
-Usage Example `weather_check.py "San Diego"`
+Usage Example: weather_check.py "San Diego"
 ```
